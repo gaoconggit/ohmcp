@@ -8,9 +8,9 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "ohmcp",
-	Short: "OHMCP - A tool for managing MCP servers",
-	Long: `OHMCP is a command-line tool that helps you manage MCP servers.
+	Use:   "omcp",
+	Short: "OMCP - A tool for managing MCP servers",
+	Long: `OMCP is a command-line tool that helps you manage MCP servers.
 It allows you to download, run, and manage different versions of MCP servers.`,
 }
 

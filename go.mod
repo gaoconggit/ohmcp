@@ -1,4 +1,4 @@
-module ohmcp
+module omcp
 
 go 1.20
 

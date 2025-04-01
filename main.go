@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ohmcp/cmd"
+	"omcp/cmd"
 )
 
 func main() {
