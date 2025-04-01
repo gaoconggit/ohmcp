@@ -5,7 +5,7 @@ OHMCP is a command-line tool for managing MCP server installations and IDE confi
 ## Installation
 
 ```bash
-go install github.com/yourusername/ohmcp@latest
+go install github.com/gaoconggit/ohmcp@latest
 ```
 
 ## Usage
